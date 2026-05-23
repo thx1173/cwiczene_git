@@ -1,0 +1,1 @@
+Zmiany w pierwszym pliku z kodem.
